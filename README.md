@@ -1,5 +1,5 @@
 # wsb-big-data-wg
-==============
-hello world!
-==============
+
+hello world! Jestem na branchu dev
+
 Jestem Wiola.
